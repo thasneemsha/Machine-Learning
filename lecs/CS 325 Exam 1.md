@@ -200,11 +200,3 @@ where `|H|` is the finite number of possible programs.
 
 
 
-
-
-
-
-h* ∈ argmin_{h∈H} L_D(h)
-```
-
-be the optimal hypothesis.
